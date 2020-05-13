@@ -35,5 +35,14 @@
 .calc {
     margin-left:400px;
     margin-right:300px;
-    margin-top:10px;
+    margin-top:20px;
+}
+
+#n1, #n2 {
+    border-radius: 5px;
+    border: 1px solid #73AD21;
+}
+
+#result {
+    border-radius: 5px;
 }
