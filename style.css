@@ -1,0 +1,39 @@
+.title {
+    background-color: bg-info;
+    margin-left:400px;
+    margin-right:400px;
+    margin-top:50px;
+    display: flex;
+    min-height: 200px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.row {
+    margin-left:400px;
+    margin-right:300px;
+}
+
+#submit {
+    margin-left:400px;
+    margin-right:300px;
+    background-color: white;
+    color: orange;
+}
+
+.c1 {
+    padding:20px;
+    font-weight: bold;
+}
+
+.c2 {
+    padding:20px;
+    font-weight:bold;
+}
+
+.calc {
+    margin-left:400px;
+    margin-right:300px;
+    margin-top:10px;
+}
